@@ -6,7 +6,6 @@ const axios = require('axios');
 
 let swapiAPI = 'https://swapi.co/api/people/'
 
-
   // Try to think through what state you'll need for this app before starting. Then build out
   // the state properties here.
   // Fetch characters from the star wars api in an effect hook. Remember, anytime you have a 
